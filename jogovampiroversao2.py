@@ -143,7 +143,7 @@ def cena3_Bob():
     if (misterio_Bob >= 16 and misterio_Bob <= 20):
         print('vc ganho')
     else:
-        print('Por favor releia o que eu te peço, escolha uma opção válida oi.')
+        print('Por favor releia o que eu te peço, escolha uma opção válida .')
 
 
 main()
